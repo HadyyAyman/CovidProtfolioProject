@@ -29,6 +29,6 @@ people vaccinated Vs Total Vaccinations && People fully Vaccinated Vs people vac
 
 CTE SHOWS the rate of the above select statement
 
--- Temp Table for the rate of vaccinations above
+Temp Table for the rate of vaccinations above
 
--- creating view to store data for later visualization of 4
+creating view to store data for later visualization of 4
